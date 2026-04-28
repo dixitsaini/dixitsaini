@@ -114,22 +114,6 @@ profile() ->
 
 
 
-### 🖥️ SQL Interview — Java Desktop App
-A **desktop tool** for shop owners to manage suppliers & inventory.
-- 📦 Inventory CRUD with persistence
-- 🧾 Supplier and order tracking
-- 🧱 Stack: `Java` · `JDBC` · `Swing`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📈 GitHub Stats
 
