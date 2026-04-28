@@ -112,42 +112,7 @@ profile() ->
   </tr>
 </table>
 
----
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 QR-Based Entry-Exit System
-A **MERN** application enabling students to log entry/exit at university gates via QR codes.
-- ✅ Boosts gate security & throughput
-- 🔮 Roadmap: integrated attendance tracking
-- 🧱 Stack: `MongoDB` · `Express` · `React` · `Node`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Real-Time Chat Application
-A **WebSocket-powered** chat app for instant messaging.
-- 🔌 Real-time bidirectional comms
-- 🔐 JWT-based authentication
-- 🧱 Stack: `MERN` · `Socket.IO`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Spotify Music Search
-A **Next.js + TypeScript** app powered by the Spotify Web API.
-- 🔎 Search tracks, albums & playlists
-- 🔑 Google OAuth sign-in
-- 🧱 Stack: `Next.js` · `TypeScript` · `Spotify API`
-
-</td>
-<td width="50%" valign="top">
 
 ### 🖥️ SQL Interview — Java Desktop App
 A **desktop tool** for shop owners to manage suppliers & inventory.
