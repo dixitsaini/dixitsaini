@@ -125,19 +125,6 @@ A **desktop tool** for shop owners to manage suppliers & inventory.
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Teacher Dashboard
-A dashboard for teachers to manage courses & monitor attendance.
-- 📚 Course management
-- 🗓️ Attendance analytics
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ More on the way…
-- 🛠️ Real-Time Code Collaboration Tool
-- 🤖 AI-powered Chatbot
-- 🎟️ Event Management with coupon registration
-
 </td>
 </tr>
 </table>
