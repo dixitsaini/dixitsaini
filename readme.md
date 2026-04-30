@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/sainidixit/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:saini1322g@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:dixit.appinnovator@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=sainidixit&style=for-the-badge&color=A90533&label=PROFILE+VIEWS" />
 
